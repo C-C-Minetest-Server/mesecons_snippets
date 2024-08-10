@@ -23,8 +23,7 @@ License of source code
 License of media (textures, sounds and documentation)
 -----------------------------------------------------
 
-Copyright (C) 2011-2016 Mesecons Mod Developer Team and contributors
+* `mesecons_snippets_block_off.png`: 1F616EMO, [CC BY-SA 3.0][CCBYSA3]
+  * Derived from works by Mesecons Mod Developer Team and contributors, [CC BY-SA 3.0][CCBYSA3]
 
-All textures, sounds and documentation files are licensed under the
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-<http://creativecommons.org/licenses/by-sa/3.0/>
+[CCBYSA3]: ]http://creativecommons.org/licenses/by-sa/3.0/
